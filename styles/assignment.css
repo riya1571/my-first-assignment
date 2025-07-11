@@ -1,0 +1,36 @@
+
+.inter-normal {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:bolder;
+  font-style: normal;
+}
+
+.button-b{
+    background-color: blue;
+    font-weight: 100;
+    color: white;
+    border: none;
+    padding: 6px 12px;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 50px;
+}
+nav li{
+    list-style-type: none;
+}
+
+.banner-tittle{
+    font-size: xx-large;
+    text-align: center;
+
+}
+header{
+    width: 1440;
+    height: 698;
+}
